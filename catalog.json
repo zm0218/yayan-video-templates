@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "name": "牙颜视频模版库",
+  "categories": [
+    {"id": "orthodontics", "name": "正畸"},
+    {"id": "whitening", "name": "美白"}
+  ],
+  "templates": [
+    {
+      "id": "ds-a",
+      "name": "DS模版A",
+      "category": "orthodontics",
+      "version": "1.0.0",
+      "path": "templates/orthodontics/ds-a",
+      "entry": "make.py",
+      "description": "门诊 × DeepSmile 合作升级；8场景、横版1080p、约64秒、中文女声",
+      "outputPattern": "DeepSmile-合作视频-{clinic_name}.mp4"
+    }
+  ]
+}

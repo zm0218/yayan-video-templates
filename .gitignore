@@ -1,0 +1,24 @@
+# Local dependencies and configuration
+node_modules/
+.venv/
+.cache/
+__pycache__/
+*.pyc
+runtime.local.json
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+# Clinic inputs, renders, narration, logs and credentials stay on the user's machine.
+inputs/
+output/
+qa-local/
+*.mp4
+*.m4a
+*.srt
+*.ass
+*.log
+*.pem
+*.key
+*.zip

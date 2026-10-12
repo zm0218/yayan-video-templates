@@ -1,0 +1,13 @@
+{
+  "name": "yayan-video-templates",
+  "version": "0.1.0",
+  "private": true,
+  "description": "牙颜视频模版库：通过 Codex 在本机复用正畸、美白视频模板",
+  "license": "MIT",
+  "engines": {"node": ">=20.9.0"},
+  "dependencies": {
+    "sharp": "0.35.5",
+    "@ffmpeg-installer/ffmpeg": "1.1.0",
+    "@ffprobe-installer/ffprobe": "2.1.2"
+  }
+}
