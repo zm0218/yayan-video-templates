@@ -1,0 +1,93 @@
+{
+  "templateVersion": "1.0.0",
+  "base": "DS模版A / approved eight-scene layout",
+  "visualRevision": "2026-09-28-tablet-shared-view-v03",
+  "sourceAudioApproval": "not yet confirmed by listening",
+  "files": [
+    {
+      "path": "assets/images/opening.png",
+      "source": "Project-generated illustrative visual; no real patient information",
+      "sha256": "0b63592ee34561ee3cdc268caf1978f8b6b1dfe04faee0e0d516d56024db6b27"
+    },
+    {
+      "path": "assets/images/communication-v03.png",
+      "source": "Project-generated illustrative visual; no real patient information",
+      "sha256": "f7050fc4a392674dd94c5452c002b9c58107fd05a4a7b8092cf1b4a25f4e0d2e"
+    },
+    {
+      "path": "assets/images/analysis.png",
+      "source": "Project-generated illustrative visual; no real patient information",
+      "sha256": "011b4393771b57e2600e57ac1d98e8c01391f1be1a00bfd5446fbf0e414b7231"
+    },
+    {
+      "path": "assets/images/plan.png",
+      "source": "Project-generated illustrative visual; no real patient information",
+      "sha256": "0ae65d9335396d239fb8d5a6de2924aed5660ac1f60555f218237cf9a4359757"
+    },
+    {
+      "path": "assets/images/progress.png",
+      "source": "Project-generated illustrative visual; no real patient information",
+      "sha256": "8fb71f7cc60e79ace014afe2468a9ec3538f53d984bde5bf6be5c33d0cb17a3a"
+    },
+    {
+      "path": "assets/images/deepsmile-logo.png",
+      "source": "DeepSmile brand asset",
+      "sha256": "10947d04bb4842c4bb2dde38cfba3405bed56447c21232b1dc39eb3e05334c39"
+    },
+    {
+      "path": "assets/fonts/NotoSansCJKsc-Regular.otf",
+      "source": "Noto Sans CJK (SIL OFL 1.1)",
+      "sha256": "2c76254f6fc379fddfce0a7e84fb5385bb135d3e399294f6eeb6680d0365b74b"
+    },
+    {
+      "path": "assets/fonts/NotoSansCJKsc-Bold.otf",
+      "source": "Noto Sans CJK (SIL OFL 1.1)",
+      "sha256": "b5f0d1a190a7f9b43c310a8850630af12553df32c4c050543f9059732d9b4c0a"
+    },
+    {
+      "path": "assets/fonts/NOTO-CJK-README.md",
+      "source": "Noto Sans CJK (SIL OFL 1.1)",
+      "sha256": "b9d6622b3c72686e74693b41d30272075e1097ae7b6f53771a1127682e4fe55f"
+    },
+    {
+      "path": "assets/audio/opening.wav",
+      "source": "Microsoft Edge TTS; generic narration without clinic name",
+      "sourceStart": 0,
+      "seconds": 6.4,
+      "sha256": "0c5624aec6eff370f998da66e6644374f71eebb57ee0c97229eb62f022155b4f"
+    },
+    {
+      "path": "assets/audio/analysis.wav",
+      "source": "Microsoft Edge TTS; generic narration without clinic name",
+      "sourceStart": 24.0,
+      "seconds": 8.8,
+      "sha256": "156e38ac5c10d519984a16b52acfa0670417db2755efa1952831ab4d7dade66b"
+    },
+    {
+      "path": "assets/audio/plan.wav",
+      "source": "Microsoft Edge TTS; generic narration without clinic name",
+      "sourceStart": 32.8,
+      "seconds": 9.6,
+      "sha256": "b7052a6729626e502a60eb4d710c95ac3a4b8338e5de514a779f570a930e0c09"
+    },
+    {
+      "path": "assets/audio/progress.wav",
+      "source": "Microsoft Edge TTS; generic narration without clinic name",
+      "sourceStart": 42.4,
+      "seconds": 8.8,
+      "sha256": "48d54946b2a08e83efa99427c7293afa5b730f586874f81a9771baabea59f291"
+    },
+    {
+      "path": "assets/audio/benefits.wav",
+      "source": "Microsoft Edge TTS; generic narration without clinic name",
+      "sourceStart": 51.2,
+      "seconds": 6.4,
+      "sha256": "c3e97ebe41c3ed784bc6da80413fa6c0281bbed04d90176ac9d7bb78fa0dc07f"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "source": "https://github.com/notofonts/noto-cjk/blob/main/Sans/LICENSE",
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    }
+  ]
+}
