@@ -1,0 +1,6 @@
+# Keep checked-out text bytes identical on every platform for asset hashes.
+* text=auto eol=lf
+*.otf -text
+*.png -text
+*.wav -text
+*.mp4 -text
