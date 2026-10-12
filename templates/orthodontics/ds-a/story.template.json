@@ -1,0 +1,145 @@
+[
+  {
+    "id": "opening",
+    "seconds": 6.4,
+    "kind": "human",
+    "asset": "assets/images/opening.png",
+    "eyebrow": "在{{clinic_name}} · 遇见正畸新体验",
+    "title": [
+      "关于正畸",
+      "你值得了解得更清楚"
+    ],
+    "tags": [
+      "适不适合自己？",
+      "每一步怎样进行？"
+    ],
+    "text": "做正畸，你希望知道：方案适不适合自己？治疗过程，能不能心中有数？",
+    "personalizedVoice": false
+  },
+  {
+    "id": "understand",
+    "seconds": 6.4,
+    "kind": "human",
+    "asset": "assets/images/communication-v03.png",
+    "imageFit": "contain",
+    "imagePosition": "right",
+    "eyebrow": "从清晰的沟通开始",
+    "title": [
+      "看懂自己的情况",
+      "认真讨论每个选择"
+    ],
+    "tags": [
+      "了解问题",
+      "表达诉求",
+      "共同沟通"
+    ],
+    "text": "在{{clinic_name}}，我们希望把问题讲清楚，让你带着理解，参与自己的正畸决定。",
+    "personalizedVoice": true
+  },
+  {
+    "id": "partnership",
+    "seconds": 11.2,
+    "kind": "partner",
+    "eyebrow": "{{clinic_name}} × DeepSmile",
+    "title": [
+      "数智化正畸",
+      "服务能力全面升级"
+    ],
+    "tags": [
+      "初诊分析",
+      "方案设计",
+      "矫治执行",
+      "过程追踪"
+    ],
+    "text": "现在，{{clinic_name}}携手 DeepSmile，引入数智化正畸体系。从初诊分析、方案设计，到矫治执行和过程追踪，服务能力全面升级。",
+    "personalizedVoice": true
+  },
+  {
+    "id": "analysis",
+    "seconds": 8.8,
+    "kind": "screen",
+    "asset": "assets/images/analysis.png",
+    "eyebrow": "升级带来的直接体验",
+    "title": [
+      "你的情况",
+      "看得更明白"
+    ],
+    "tags": [
+      "AI辅助分析",
+      "医生结合检查判断"
+    ],
+    "text": "AI辅助医生分析检查资料，把牙齿与咬合情况呈现得更直观。你的矫治过程需要注意什么，医生一一和你讲清楚。",
+    "personalizedVoice": false
+  },
+  {
+    "id": "plan",
+    "seconds": 9.6,
+    "kind": "product",
+    "asset": "assets/images/plan.png",
+    "eyebrow": "升级带来的直接体验",
+    "title": [
+      "结合你的情况",
+      "设计矫治路径"
+    ],
+    "tags": [
+      "数字化方案",
+      "阶段目标",
+      "辅助执行"
+    ],
+    "text": "根据你的牙齿情况，辅助医生设计矫治方案与阶段目标。再结合相应矫治工具，将设计落实到治疗安排中。",
+    "personalizedVoice": false
+  },
+  {
+    "id": "progress",
+    "seconds": 8.8,
+    "kind": "screen",
+    "asset": "assets/images/progress.png",
+    "eyebrow": "升级带来的直接体验",
+    "title": [
+      "进展有记录",
+      "复诊有依据"
+    ],
+    "tags": [
+      "阶段记录",
+      "前后对比",
+      "下一步安排"
+    ],
+    "text": "复诊时，通过阶段记录与前后对比，了解已经发生的变化，讨论接下来的安排。让等待，多一份理解。",
+    "personalizedVoice": false
+  },
+  {
+    "id": "benefits",
+    "seconds": 6.4,
+    "kind": "human",
+    "asset": "assets/images/communication-v03.png",
+    "imageFit": "contain",
+    "imagePosition": "right",
+    "eyebrow": "让技术，成为你能感受到的服务",
+    "title": [
+      "方案更清楚",
+      "沟通更具体"
+    ],
+    "tags": [
+      "方案看得懂",
+      "设计有针对性",
+      "过程可追踪"
+    ],
+    "text": "对你而言，这份升级，就是方案更清楚，沟通更具体，治疗过程更有参与感。",
+    "personalizedVoice": false
+  },
+  {
+    "id": "closing",
+    "seconds": 6.4,
+    "kind": "closing",
+    "eyebrow": "{{clinic_name}} × DeepSmile",
+    "title": [
+      "数智化正畸",
+      "从一次清晰的沟通开始"
+    ],
+    "tags": [
+      "欢迎咨询 · 了解适合你的正畸方案"
+    ],
+    "text": "{{clinic_name}}，携手 DeepSmile。数智化正畸，从一次清晰的沟通开始。",
+    "personalizedVoice": true
+  }
+]
