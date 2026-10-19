@@ -1,0 +1,232 @@
+{
+  "template": "ht-video-001",
+  "name": "HT视频001",
+  "templateVersion": "1.1.0",
+  "visualRevision": "static-hd-products",
+  "rights": "See root ASSETS.md; code MIT does not relicense media or trademarks",
+  "sourceAudioApproval": "listening not repeated in this release",
+  "files": [
+    {
+      "path": "assets/assessment.jpg",
+      "sha256": "94c0f8160c90e97420ca0604dcb81f2678ab21218b754f8bac82f3b7b0167c1e",
+      "bytes": 32589,
+      "source": "Project-confirmed brand scenario illustration or pre-cropped motion; not the end user clinic or real treatment evidence"
+    },
+    {
+      "path": "assets/benefits.jpg",
+      "sha256": "10e16ef728377973893175a5f2c5f075f6582a2640b54fca5d5a61d2e30e07e1",
+      "bytes": 47032,
+      "source": "Project-confirmed brand scenario illustration or pre-cropped motion; not the end user clinic or real treatment evidence"
+    },
+    {
+      "path": "assets/fonts/LICENSE.txt",
+      "sha256": "4918eb957798053e17648ef79ffe2c39414a33c975e81e3a98f3237d2c5a89d4",
+      "bytes": 651,
+      "source": "Noto Sans CJK SC original font; SIL OFL 1.1, see assets/fonts/OFL.txt"
+    },
+    {
+      "path": "assets/fonts/NotoSansCJKsc-Bold.otf",
+      "sha256": "b5f0d1a190a7f9b43c310a8850630af12553df32c4c050543f9059732d9b4c0a",
+      "bytes": 17002248,
+      "source": "Noto Sans CJK SC original font; SIL OFL 1.1, see assets/fonts/OFL.txt"
+    },
+    {
+      "path": "assets/fonts/NotoSansCJKsc-Regular.otf",
+      "sha256": "2c76254f6fc379fddfce0a7e84fb5385bb135d3e399294f6eeb6680d0365b74b",
+      "bytes": 16437364,
+      "source": "Noto Sans CJK SC original font; SIL OFL 1.1, see assets/fonts/OFL.txt"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2",
+      "bytes": 4301,
+      "source": "Noto Sans CJK SC original font; SIL OFL 1.1, see assets/fonts/OFL.txt"
+    },
+    {
+      "path": "assets/hiteeth-logo.png",
+      "sha256": "80b2167606479c07e3d7594bbb8c4a912d6c076da87ef8eec26d70ea0a77bc03",
+      "bytes": 24584,
+      "source": "HiTeeth official horizontal brand logo; trademark rights reserved"
+    },
+    {
+      "path": "assets/hp17-new.jpg",
+      "sha256": "0bef579699501f3ed4f845c1964693a5ab5a84a385c3fc9d70043aa898bc5039",
+      "bytes": 75617,
+      "source": "Project-provided current HiTeeth HP17/HP30 product photograph; no generated product labels"
+    },
+    {
+      "path": "assets/hp30-new.jpg",
+      "sha256": "029151f4d2e5a55455299b1815219ff26f717802e39d9b8db43d3f54d4f5a3e2",
+      "bytes": 893259,
+      "source": "Project-provided current HiTeeth HP17/HP30 product photograph; no generated product labels"
+    },
+    {
+      "path": "assets/motion/panel-assessment.mp4",
+      "sha256": "2e5be1e3d77859895df23c5b2ac4d871454fa1487494015748a61f1e1f795bb4",
+      "bytes": 2461365,
+      "source": "Project-confirmed brand scenario illustration or pre-cropped motion; not the end user clinic or real treatment evidence"
+    },
+    {
+      "path": "assets/motion/panel-benefits.mp4",
+      "sha256": "2b544cee2e06691f64d1966f3ce5f552db5fb5a3f36b7cc67010da6bb574cdb3",
+      "bytes": 1518834,
+      "source": "Project-confirmed brand scenario illustration or pre-cropped motion; not the end user clinic or real treatment evidence"
+    },
+    {
+      "path": "assets/motion/panel-opening.mp4",
+      "sha256": "e73dc0287538eb1b1a789b48ddca41376244eb3f116aa4b0a9ee773bd89ca666",
+      "bytes": 2094455,
+      "source": "Project-confirmed brand scenario illustration or pre-cropped motion; not the end user clinic or real treatment evidence"
+    },
+    {
+      "path": "assets/motion/panel-record.mp4",
+      "sha256": "f3d799f273e4658a42d0ef635e400f76f56fb79dcb86f532917907229f4df851",
+      "bytes": 1474472,
+      "source": "Project-confirmed brand scenario illustration or pre-cropped motion; not the end user clinic or real treatment evidence"
+    },
+    {
+      "path": "assets/opening.jpg",
+      "sha256": "3890136760a2efefce73c6d8b94ea2cb4a18a6c19f1e7cd34c18e7cfc594fb26",
+      "bytes": 27740,
+      "source": "Project-confirmed brand scenario illustration or pre-cropped motion; not the end user clinic or real treatment evidence"
+    },
+    {
+      "path": "assets/record.jpg",
+      "sha256": "18594af8fec1cb6de932150adc6c599f8856c326e53b4ab3fbdba5847bf6d996",
+      "bytes": 39537,
+      "source": "Project-confirmed brand scenario illustration or pre-cropped motion; not the end user clinic or real treatment evidence"
+    },
+    {
+      "path": "audio-cache/assessment.jsonl",
+      "sha256": "1656652062343f9eb897dc36624625950f6be5e56e4979f86ac6849677463b71",
+      "bytes": 2539,
+      "source": "Seven generic zh-CN-XiaoxiaoNeural scene recordings and timing metadata; no clinic name, rate +18%, pitch -1Hz"
+    },
+    {
+      "path": "audio-cache/assessment.mp3",
+      "sha256": "ffea1bec289a634c48118674e81d6df8e62b370a2b8b8b8a03877b9eae7695b9",
+      "bytes": 60048,
+      "source": "Seven generic zh-CN-XiaoxiaoNeural scene recordings and timing metadata; no clinic name, rate +18%, pitch -1Hz"
+    },
+    {
+      "path": "audio-cache/assessment.txt",
+      "sha256": "d0c0f46f4e1504c1c960196477b7915fa64f1c5f787d7c36c731789314342869",
+      "bytes": 170,
+      "source": "Seven generic zh-CN-XiaoxiaoNeural scene recordings and timing metadata; no clinic name, rate +18%, pitch -1Hz"
+    },
+    {
+      "path": "audio-cache/benefits.jsonl",
+      "sha256": "22177443d78ab1f048ce3a19fdce03f85232118a8de1dfb42e58ee751ba55a97",
+      "bytes": 1746,
+      "source": "Seven generic zh-CN-XiaoxiaoNeural scene recordings and timing metadata; no clinic name, rate +18%, pitch -1Hz"
+    },
+    {
+      "path": "audio-cache/benefits.mp3",
+      "sha256": "b5b9b46fc5ead8b7ff6537976fb6b49d49b10505406e857aa1eaf510c38165ef",
+      "bytes": 39312,
+      "source": "Seven generic zh-CN-XiaoxiaoNeural scene recordings and timing metadata; no clinic name, rate +18%, pitch -1Hz"
+    },
+    {
+      "path": "audio-cache/benefits.txt",
+      "sha256": "ff4b5d612fac54086857a028d58ee6f0a454602e93fb2a598115ffe8f8484970",
+      "bytes": 119,
+      "source": "Seven generic zh-CN-XiaoxiaoNeural scene recordings and timing metadata; no clinic name, rate +18%, pitch -1Hz"
+    },
+    {
+      "path": "audio-cache/comfort.jsonl",
+      "sha256": "33dea0b8da2929653b65f24ce58aea5da5562c5ba818ac39130b2dff54d6679d",
+      "bytes": 2396,
+      "source": "Seven generic zh-CN-XiaoxiaoNeural scene recordings and timing metadata; no clinic name, rate +18%, pitch -1Hz"
+    },
+    {
+      "path": "audio-cache/comfort.mp3",
+      "sha256": "a6cefb2d82d3de54afd1ed19a4d0c8dcf541dbd6d432bc30ab19ab8f24385694",
+      "bytes": 62928,
+      "source": "Seven generic zh-CN-XiaoxiaoNeural scene recordings and timing metadata; no clinic name, rate +18%, pitch -1Hz"
+    },
+    {
+      "path": "audio-cache/comfort.txt",
+      "sha256": "efe9c75671f685cb3f456b61d36afe13ec638e2839f5c671df3e6096f800c0dc",
+      "bytes": 173,
+      "source": "Seven generic zh-CN-XiaoxiaoNeural scene recordings and timing metadata; no clinic name, rate +18%, pitch -1Hz"
+    },
+    {
+      "path": "audio-cache/maintenance.jsonl",
+      "sha256": "6db605832ffc34a7ca5bac8d59d32a5ffac7d29b9e2abeed1e1ff395c6da996b",
+      "bytes": 2712,
+      "source": "Seven generic zh-CN-XiaoxiaoNeural scene recordings and timing metadata; no clinic name, rate +18%, pitch -1Hz"
+    },
+    {
+      "path": "audio-cache/maintenance.mp3",
+      "sha256": "55970850a03170bd87ea5cc2bb2b470f712a24061eb4734bcfc6ddf17bf84dad",
+      "bytes": 63504,
+      "source": "Seven generic zh-CN-XiaoxiaoNeural scene recordings and timing metadata; no clinic name, rate +18%, pitch -1Hz"
+    },
+    {
+      "path": "audio-cache/maintenance.txt",
+      "sha256": "60b1b929e384a10e35c727db697ed9f6a842e84e104fc718ff99d63b8112622c",
+      "bytes": 176,
+      "source": "Seven generic zh-CN-XiaoxiaoNeural scene recordings and timing metadata; no clinic name, rate +18%, pitch -1Hz"
+    },
+    {
+      "path": "audio-cache/opening.jsonl",
+      "sha256": "62d844f1c928784e5e75871c5d6ca7668b33ff738714e16b748b6631cd1092fc",
+      "bytes": 2085,
+      "source": "Seven generic zh-CN-XiaoxiaoNeural scene recordings and timing metadata; no clinic name, rate +18%, pitch -1Hz"
+    },
+    {
+      "path": "audio-cache/opening.mp3",
+      "sha256": "49414beb8c5fecb5c18177fe84cbf5b0b81d0c43f57fe31875b0454181ac59ad",
+      "bytes": 50112,
+      "source": "Seven generic zh-CN-XiaoxiaoNeural scene recordings and timing metadata; no clinic name, rate +18%, pitch -1Hz"
+    },
+    {
+      "path": "audio-cache/opening.txt",
+      "sha256": "5f666610eebbc5a89ee756e32bef17ce15d1fe8b0bee55356807aed298ea47f5",
+      "bytes": 137,
+      "source": "Seven generic zh-CN-XiaoxiaoNeural scene recordings and timing metadata; no clinic name, rate +18%, pitch -1Hz"
+    },
+    {
+      "path": "audio-cache/record.jsonl",
+      "sha256": "aa653df0d1af189ce8ebe505024337f55ccf59d3b69c4f90e3d6cdaa719deec0",
+      "bytes": 2130,
+      "source": "Seven generic zh-CN-XiaoxiaoNeural scene recordings and timing metadata; no clinic name, rate +18%, pitch -1Hz"
+    },
+    {
+      "path": "audio-cache/record.mp3",
+      "sha256": "5ba8b193268c41fda157a3723b6feda6d874665fafd3e5d3977a3502cd3a66e9",
+      "bytes": 52416,
+      "source": "Seven generic zh-CN-XiaoxiaoNeural scene recordings and timing metadata; no clinic name, rate +18%, pitch -1Hz"
+    },
+    {
+      "path": "audio-cache/record.txt",
+      "sha256": "0b50c3c69383c453b64f5d909368d105b896bef55e19e2e32b0b7ab4b763a077",
+      "bytes": 152,
+      "source": "Seven generic zh-CN-XiaoxiaoNeural scene recordings and timing metadata; no clinic name, rate +18%, pitch -1Hz"
+    },
+    {
+      "path": "audio-cache/service.jsonl",
+      "sha256": "060726f5dd7a7e8854dd687426d833684796218805988c63dd287b5a57fb242c",
+      "bytes": 2456,
+      "source": "Seven generic zh-CN-XiaoxiaoNeural scene recordings and timing metadata; no clinic name, rate +18%, pitch -1Hz"
+    },
+    {
+      "path": "audio-cache/service.mp3",
+      "sha256": "004fa18b035305dac3ab5ebfb896d968becb0110e37a27412be1d7e20fe4e071",
+      "bytes": 61344,
+      "source": "Seven generic zh-CN-XiaoxiaoNeural scene recordings and timing metadata; no clinic name, rate +18%, pitch -1Hz"
+    },
+    {
+      "path": "audio-cache/service.txt",
+      "sha256": "9626c44c9bfaf864c30c72ebeea5e1130f7ffb163caa2b8e3fef85096ae5ea8b",
+      "bytes": 170,
+      "source": "Seven generic zh-CN-XiaoxiaoNeural scene recordings and timing metadata; no clinic name, rate +18%, pitch -1Hz"
+    },
+    {
+      "path": "examples/demo-logo.svg",
+      "sha256": "dc464dcf9c4bb5879fa0191bf06f274318d0622c9c5c6abf60616a1a034261b7",
+      "bytes": 387,
+      "source": "Original generic demo mark from this repository; not a real clinic"
+    }
+  ]
+}

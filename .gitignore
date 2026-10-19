@@ -22,3 +22,5 @@ qa-local/
 *.pem
 *.key
 *.zip
+# Versioned template motion assets only; clinic outputs remain ignored.
+!templates/whitening/ht-video-001/assets/motion/*.mp4

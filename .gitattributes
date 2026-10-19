@@ -4,3 +4,5 @@
 *.png -text
 *.wav -text
 *.mp4 -text
+*.jpg -text
+*.mp3 -text

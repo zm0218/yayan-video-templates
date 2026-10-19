@@ -33,9 +33,13 @@ jobs:
           python -m unittest discover -s tests -v
       - name: Render offline preview (no TTS, no clinic data)
         run: python video.py --template ds-a --name "模板验证口腔" --logo templates/orthodontics/ds-a/examples/demo-logo.svg --preview --out output/ci-preview
+      - name: Render HT视频001 offline preview (no TTS, no clinic data)
+        run: python video.py --template ht-video-001 --name "美白模板验证口腔" --logo templates/whitening/ht-video-001/examples/demo-logo.svg --preview --out output/ci-ht-preview
       - name: Keep preview for human review
         uses: actions/upload-artifact@v4
         with:
           name: preview-${{ matrix.os }}
-          path: output/ci-preview/qa/
+          path: |
+            output/ci-preview/qa/
+            output/ci-ht-preview/qa/
           retention-days: 7
